@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&family=Odibee+Sans&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Arsenal SC';
+}
+
+.heading{
+   margin-bottom: 3rem;
+}
+.primary{
+  display: block;
+}
+.secondary{
+  display: none; 
+} 
+.tertiary{
+  display: none;
+}
+.quaternary{
+  display:none;
+}
+.quinary{
+  display:none;
+}
+.senary{
+  display:none;
+}
+.septenary{
+  display:none;
+}
+.study-path{
+  display:none;
+}
+.procrastination{
+  display:none;
+}
+#restart-tertiary,#restart-quaternary,#restart-sucesss,#restart-procrastination{
+   margin-bottom: 10rem;
+}
+
+ .ess{
+   margin: 0;
+   }
+
+img{
+  width:15%; 
+  height:auto;
+}
+
+.img{
+  margin-top: 2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: auto;
+}
+
+.main{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.asc{
+  margin-top: 10rem;
+  font-size: 2rem;
+}
+
+.title, .story-opening{
+  display: flex;
+  justify-content: center;
+}
+.title{
+  font-size: 4.2vmin;
+}
+
+.description, .description1 {
+margin-top: 50px;
+  text-align: center; /* Center text horizontally */
+  margin: 20px auto; /* Center the element horizontally */
+  width: 100%; /* Full width of the container */
+}
+
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #89a5b8;
+  border: none;
+  border-radius: 20px;
+  transition: background-color 1s ease, color 1s ease, border-radius 1s ease;
+   font-family: 'Arsenal SC';
+  font-weight: bold;
+}
+
+/* button:hover {
+  background-color: #2980b9;  
+   border-radius: 100px; 
+} */
+
+
