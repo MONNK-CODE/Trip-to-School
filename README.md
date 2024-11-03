@@ -12,7 +12,7 @@ In this interactive adventure, you start your day as a student who wakes up and 
 - **Dynamic Display:** Elements change and update based on user interaction.
 - **Restart Capability:** Easily restart the adventure from any scenario to explore different paths.
 
-## 🛠️ Technologies Used
+## 🛠️ ⌨️Technologies Used
 
 - **HTML5**: Structure of the web pages.
 - **CSS3**: Styling and layout, including flexbox and centering techniques.

@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const procrastinate = document.querySelector("#procrastinate");
   const skip = document.querySelector("#skip");
   const study = document.querySelector("#study");
-const restarts = document.querySelectorAll("#restart-quaternary,#restart-tertiary,#restart-procrastination,#restart-septenary,#restart-sucesss");
+const restarts = document.querySelectorAll("#restart-quaternary,#restart-tertiary,#restart-procrastination,#restart-septenary,#restart-success");
   const schoolImage = document.querySelector('.school-image');
   
   function adjustImageSize() {
