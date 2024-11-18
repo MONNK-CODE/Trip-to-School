@@ -2,7 +2,6 @@
 
 ## Code Nation Project
 This was originally a project I worked on when I first started coding. Since then, I've made significant improvements and refined it using AI, which helped enhance the final result.
--------------------------------------------
 
 Welcome to the **Trip to School** interactive adventure! This project is a choose-your-own-adventure style game where your decisions as a student will determine your success, failure, or unexpected surprises during a typical school day.
 
