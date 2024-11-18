@@ -1,4 +1,6 @@
 # 🚌 Trip to School - Interactive Adventure
+-------------------------------------------
+## Code Nation Project
 
 Welcome to the **Trip to School** interactive adventure! This project is a choose-your-own-adventure style game where your decisions as a student will determine your success, failure, or unexpected surprises during a typical school day.
 
